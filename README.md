@@ -23,7 +23,7 @@ install.packages(c("shiny", "randomForest", "dplyr", "shinythemes"))
 Asegúrese de tener en la misma carpeta de trabajo los siguientes archivos:
 
 - `app.R` → Contiene el código de la aplicación.
-- `modelo_rf.rds` → Modelo Random Forest entrenado.
+- `modelo_rf.rds` → Modelo Random Forest entrenado. (para descargar el archivo visite ----> https://drive.google.com/file/d/1aylecmtH0ateCz7R_4-5tFaYpj6geJsD/view?usp=sharing)
 - `dataset_final_para_visual_studio_code_limpio.csv` → Dataset de entrada para extraer los niveles de los factores.
 
 ---
